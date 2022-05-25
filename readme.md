@@ -1,0 +1,6 @@
+-- Create a DEX
+-- Source YT
+-- Stack: front end: React, backend: Moralis.
+-- full fledged decentrwalised exchange, 
+-- funcitonaliaties: Can select any of the token, Swap. plugins
+-- Boilerplate: moralis boilerplate.
